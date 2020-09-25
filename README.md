@@ -10,7 +10,7 @@ Hace un buen tiempo estuve metida en el mundillo del deporte, del cual es el tem
 ### Deporte
 
 <p align="center">
- <b>![](_100302095_gettyimages-688005548-1.jpg)</br>
+ <img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/E68C/production/_100302095_gettyimages-688005548-1.jpg">
  </p>
 <br><br>
 Como he dicho anteriormente, una de mis grandres aficiones en su día fue el deporte. 
