@@ -1,37 +1,27 @@
-## Deporte
+## Aficiones
 
-You can use the [editor on GitHub](https://github.com/Domeras/Paginas-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hola muy buenas me llamo Domenica.
+El tema del que voy a tratar es sobre mis aficiones. 
+Me gusta mucho la música en específico cantar, estuve en la coral de mi pueblo **Etxarri-Aranatz**
+Me gusta bailar en mis ratos libres, cualquier tipo de baile.
+Hace un buen tiempo estuve metida en el mundillo del deporte, del cual es el tema que voy a hablar en específico
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Deporte
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Como he dicho anteriormente, una de mis grandres aficiones en su día fue el deporte. 
+Me gusta realizar el paseo matutino, hacer un poco de cardio pero sobre todo trabjar la Hipertrofia muscular.
 
 ```markdown
-Syntax highlighted code block
+Ejercicios que más me gustan realizar:
 
-# Header 1
-## Header 2
-### Header 3
+1. Sentadilla bulgara
+2. Sentadilla sumo
+3. Puente
+4. Peso muerto
+5. Trajar el tren superior realizando diferente ejercicios con pesas
 
-- Bulleted
-- List
+Si te interesa el tema de la hipertrofia y te quieres informar [ITC HIPERTROFIA](https://es.wikipedia.org/wiki/Hipertrofia_muscular)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Domeras/Paginas-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
