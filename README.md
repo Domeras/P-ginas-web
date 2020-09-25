@@ -21,7 +21,8 @@ Ejercicios que más me gustan realizar:
 4. Peso muerto
 5. Trajar el tren superior realizando diferente ejercicios con pesas
 
-Si te interesa el tema de la hipertrofia y te quieres informar [ITC HIPERTROFIA](https://es.wikipedia.org/wiki/Hipertrofia_muscular)
+Si te interesa el tema de la hipertrofia y te quieres informar [HIPERTROFIA](https://es.wikipedia.org/wiki/Hipertrofia_muscular)
+
 
 
 
